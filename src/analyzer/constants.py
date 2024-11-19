@@ -60,7 +60,7 @@ class DisplaySettings:
         Precision for error percentage values
     """
 
-    PAUSE_DURATION: Final[int] = 3
+    PAUSE_DURATION: Final[int] = 0
     DECIMAL_PLACES: Final[int] = 2
     SCIENTIFIC_NOTATION_PLACES: Final[int] = 2
     ERROR_DECIMAL_PLACES: Final[int] = 4
